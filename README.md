@@ -54,9 +54,9 @@ Computational modeling            →  Can we formalize cognition in code?
 
 ## Where I'm headed
 
-I'm building toward a **master's in cognitive neuroscience / neuropsychology**, with the ambition of doing research that bridges rigorous experimental methods with modern computational tools. I want to design paradigms that are not just valid — but actually deployable, scalable, and open.
+I want to do a **master's degree in cognitive neuroscience / neuropsychology**, with the ambition of doing research that bridges rigorous experimental methods with modern computational tools. I want to design paradigms that are not just valid — but actually deployable, scalable, and open.
 
-If you're working on cognition, attention, or brain-behavior relationships — I'd love to connect.
+If you're working on cognition, attention, or brain-behavior relationships, I'd love to connect !
 
 📩 [anymaa@icloud.com](mailto:anymaa@icloud.com)
 
