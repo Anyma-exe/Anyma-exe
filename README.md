@@ -1,3 +1,4 @@
+![](./terminal.svg)
 <div align="center">
 
 # Anyma Ali Msa
